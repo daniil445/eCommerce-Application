@@ -68,6 +68,3 @@ eCommerce-Application/
 ├─ webpack.dev.config.js     # Webpack config dev
 └─ webpack.prod.config.js    # Webpack config prod
 ```
-
-
-https://trello.com/invite/60c20fe5efa72d6b335eba11/ATTIe39328f3170ae18e70c108fa195c0146BE0E3053
