@@ -28,7 +28,7 @@ function createUI (){
 <body>
     <div>
         <h1>Become a donator right now</h1>
-            <a id="logo" href="https://opencollective.com/rsschool">
+            <a id="logo" href="https://opencollective.com/rsschool" target="_blank">
                 ${RS_COURSE(intToRGB())}
             </a>
     </div>
@@ -39,7 +39,7 @@ function createUI (){
         </div>
         <div>&#9400; 2025</div>
         <div>
-            <a href="https://rs.school">
+            <a href="https://rs.school" target="_blank">
                 ${RS_SUPP}
             </a>
         </div>
